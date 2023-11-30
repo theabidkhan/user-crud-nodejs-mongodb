@@ -16,7 +16,12 @@ A Simple CRUD Application in nodeJs, MongoDB
 
 ### How to install 
 
+* Install dependencies
 ```sh
 sudo npm install
-node 
+```
+
+* Run the server
+```sh
+node server.js
 ```
