@@ -1,5 +1,5 @@
 {
-  "name": "nodeexpressapi",
+  "name": "nodejs-demo",
   "version": "1.0.0",
   "description": "This is an simple app for crating restful crud api in node",
   "main": "server.js",
@@ -14,7 +14,6 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
-    "mongoose": "^5.10.14",
-    "nodemon": "^2.0.6"
+    "mongoose": "^5.10.14"
   }
 }

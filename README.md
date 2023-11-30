@@ -13,3 +13,10 @@ A Simple CRUD Application in nodeJs, MongoDB
 * DELETE ```/api/user/<id>```: delete a user based on id
 
 * PUT ```/api/user/<id>```: update a user
+
+### How to install 
+
+```sh
+sudo npm install
+node 
+```
